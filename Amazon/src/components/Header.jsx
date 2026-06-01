@@ -46,7 +46,7 @@ function Header() {
         <div className="flex items-center justify-evenly ml-auto sm:ml-0">
           
           <div className="hidden sm:flex flex-col border border-transparent hover:border-white p-2 rounded cursor-pointer mx-1">
-            <span className="text-xs">Hello, Faraz</span>
+            <span className="text-xs">Hello, Affan </span>
             <span className="font-bold text-sm leading-3">Account & Lists</span>
           </div>
 
